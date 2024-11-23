@@ -22,6 +22,14 @@ In addition to aquafriction energy, this GPT delves into related fields such as 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Science](https://github.com/sourceduty/Science)
+<br>
+[Energy](https://github.com/sourceduty/Energy)
+<br>
+[Thermotronics](https://github.com/sourceduty/Thermotronics)
+<br>
+[Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
