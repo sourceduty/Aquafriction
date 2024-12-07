@@ -51,6 +51,8 @@ The development of Aquafriction by Sourceduty follows a meticulous offline-first
 [Thermotronics](https://github.com/sourceduty/Thermotronics)
 <br>
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
+<br>
+[Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
