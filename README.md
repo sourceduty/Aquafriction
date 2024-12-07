@@ -33,6 +33,13 @@ Optimizing materials for aquafriction devices requires a balance between maximiz
 Durability is critical, as aquatic environments can cause corrosion, biofouling, and wear. Corrosion-resistant metals like stainless steel (316) or copper-nickel alloys, alongside advanced coatings like graphene or epoxy resin, are excellent choices for extended performance. Abrasion resistance can be achieved using hard ceramics, such as silicon carbide, or durable polymers like ultra-high molecular weight polyethylene (UHMWPE). For biofouling resistance, copper-based alloys and specialized hydrophobic coatings can minimize microbial buildup. Lightweight, high-strength materials like carbon fiber composites or titanium alloys further enhance efficiency by reducing device inertia while maintaining structural integrity. Selecting materials also depends on environmental conditions (e.g., freshwater or saltwater), scale (large turbines vs. micro-devices), and energy-capture mechanisms (piezoelectric, triboelectric, etc.), ensuring tailored solutions for optimal performance.
 
 #
+### Offline Origin
+
+![Offline](https://github.com/user-attachments/assets/a671ef5b-4c2e-4145-91b3-d13764b6fd43)
+
+The development of Aquafriction by Sourceduty follows a meticulous offline-first approach to ensure precision and security throughout the project lifecycle. This process allows for the detailed exploration of innovative ideas in a controlled environment, away from external influences or potential data leaks. By conducting all initial research, model training, and algorithm optimization offline, the team ensures the integrity and confidentiality of the project. This method also facilitates thorough testing and validation of concepts, enabling the resolution of any issues before transitioning to public platforms like GitHub. The offline-first strategy reinforces the reliability and originality of Aquafriction, setting a strong foundation for its eventual open-source contribution and broader collaborative efforts.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
